@@ -2,7 +2,7 @@
 <d:devices xmlns:d="http://schemas.android.com/sdk/devices/2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <d:device>
         <d:name>Samsung Galaxy S10</d:name>
-        <d:manufacturer>User</d:manufacturer>
+        <d:manufacturer>samsung</d:manufacturer>
         <d:meta/>
         <d:hardware>
             <d:screen>
